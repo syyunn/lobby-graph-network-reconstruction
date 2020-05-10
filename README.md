@@ -3,3 +3,4 @@ Applying network reconstruction (weighted/directed edge completion; interaction 
 
 ## Problem Defining
 we are required to infer the network of interactions from the observed functional behavior. 
+https://arxiv.org/pdf/1903.10833.pdf
